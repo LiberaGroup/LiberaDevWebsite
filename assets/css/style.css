@@ -10,8 +10,46 @@ html {
     color: white;
 }
 
+nav {
+    background-color: #1d1d1d;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+}
+
+nav > div {
+    display: inline-block;
+}
+
+.logo > img {
+    width: 45px;
+}
+
+.logo > h2 {
+    display: inline-block;
+}
+
+.link {
+    padding-left: 58rem;
+}
+
+.link > ul > li {
+    display: inline-block;
+    padding-right: 15px;
+}
+
+.link > ul > li > a {
+    color: white;
+}
+
+.link > ul > li > a:hover {
+    color: #ff7373;
+    transition: 1.7s;
+}
+
 .hero {
     text-align: center;
+    padding: 12rem;
 }
 
 footer {
