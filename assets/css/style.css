@@ -21,12 +21,16 @@ nav > div {
     display: inline-block;
 }
 
+.logo > img {
+    width: 45px;
+}
+
 .logo > h2 {
     display: inline-block;
 }
 
 .link {
-    padding-left: 61rem;
+    padding-left: 58rem;
 }
 
 .link > ul > li {
