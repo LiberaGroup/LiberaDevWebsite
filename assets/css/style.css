@@ -15,7 +15,9 @@ html {
 }
 
 footer {
+    background-color: #1d1d1d;
     text-align: center;
     font-size: xx-small;
-    padding-bottom: 0px;
+    padding-top: 75px;
+    padding-bottom: 25px;
 }
