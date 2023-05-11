@@ -10,8 +10,32 @@ html {
     color: white;
 }
 
+nav {
+    background-color: #1d1d1d;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+}
+
+nav > div {
+    display: inline-block;
+}
+
+.logo > h2 {
+    display: inline-block;
+}
+
+.link {
+    padding-left: 78rem;
+}
+
+.link > ul > li {
+    display: inline-block;
+}
+
 .hero {
     text-align: center;
+    padding: 12rem;
 }
 
 footer {
