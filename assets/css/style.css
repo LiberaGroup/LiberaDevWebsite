@@ -26,11 +26,21 @@ nav > div {
 }
 
 .link {
-    padding-left: 78rem;
+    padding-left: 61rem;
 }
 
 .link > ul > li {
     display: inline-block;
+    padding-right: 15px;
+}
+
+.link > ul > li > a {
+    color: white;
+}
+
+.link > ul > li > a:hover {
+    color: #ff7373;
+    transition: 1.7s;
 }
 
 .hero {
