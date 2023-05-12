@@ -21,6 +21,10 @@ nav > div {
     display: inline-block;
 }
 
+.logo > img {
+    width: 5%;
+}
+
 .link {
     padding-left: 67rem;
 }
